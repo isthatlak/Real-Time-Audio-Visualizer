@@ -1,0 +1,6 @@
+pygame
+librosa
+numpy
+scipy
+matplotlib
+sounddevice
